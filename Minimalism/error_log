@@ -1,0 +1,192 @@
+[08-Aug-2017 04:01:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[08-Aug-2017 04:01:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[14-Aug-2017 08:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[14-Aug-2017 08:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[14-Aug-2017 08:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/pawlean/public_html/wp-content/themes/2017/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/header.php on line 2
+[14-Aug-2017 08:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[14-Aug-2017 08:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[17-Aug-2017 16:29:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
+[17-Aug-2017 16:29:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
+[22-Sep-2017 03:41:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[22-Sep-2017 03:41:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[22-Sep-2017 16:53:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[22-Sep-2017 16:53:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[27-Sep-2017 01:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[27-Sep-2017 01:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[30-Sep-2017 07:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[30-Sep-2017 07:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[01-Oct-2017 05:18:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/pawlean/public_html/wp-content/themes/2017/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/header.php on line 2
+[02-Oct-2017 16:45:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[02-Oct-2017 16:45:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[03-Oct-2017 08:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[03-Oct-2017 08:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[06-Oct-2017 10:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/pawlean/public_html/wp-content/themes/2017/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/header.php on line 2
+[08-Oct-2017 05:03:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[08-Oct-2017 05:03:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[08-Oct-2017 19:58:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[08-Oct-2017 19:58:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[10-Oct-2017 14:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[10-Oct-2017 14:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[13-Oct-2017 13:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[13-Oct-2017 13:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[13-Oct-2017 14:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/pawlean/public_html/wp-content/themes/2017/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/header.php on line 2
+[17-Oct-2017 01:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
+[17-Oct-2017 01:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
+[17-Oct-2017 14:43:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[17-Oct-2017 14:43:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[17-Oct-2017 15:01:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/pawlean/public_html/wp-content/themes/2017/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/header.php on line 2
+[17-Oct-2017 19:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
+[17-Oct-2017 19:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
+[18-Oct-2017 07:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[18-Oct-2017 07:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/archive.php on line 1
+[19-Oct-2017 10:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
+[19-Oct-2017 10:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
+[20-Oct-2017 06:02:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/pawlean/public_html/wp-content/themes/2017/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/header.php on line 2
+[20-Oct-2017 23:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[20-Oct-2017 23:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/404.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/404.php on line 4
+[21-Oct-2017 04:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
+[21-Oct-2017 04:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pawlean/public_html/wp-content/themes/2017/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/pawlean/public_html/wp-content/themes/2017/index.php on line 1
